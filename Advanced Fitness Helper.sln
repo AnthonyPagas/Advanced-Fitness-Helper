@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Advanced Fitness Helper", "Advanced Fitness Helper\Advanced Fitness Helper.pyproj", "{578E6E2D-D85B-4275-B9DB-BBF956D9853E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578E6E2D-D85B-4275-B9DB-BBF956D9853E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578E6E2D-D85B-4275-B9DB-BBF956D9853E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A8B751-7F7E-48B7-A560-C9517758EE94}
+	EndGlobalSection
+EndGlobal
